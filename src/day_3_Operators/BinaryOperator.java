@@ -6,7 +6,7 @@ public class BinaryOperator {
 		
 		/*
 		 * Relational - <,>,
-		 * Logical
+		 * Logical - && ,||,!  -- and,or,not 
 		 * Arithematic - + 
 		 */
 		System.out.println("Arathematic Operator");
