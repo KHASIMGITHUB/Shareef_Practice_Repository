@@ -18,8 +18,17 @@ public class BinaryOperator {
 		System.out.println(a/b);
 		System.out.println(a%b);
 		
-		System.out.println(a>b);
-		System.out.println(a==b);
+		System.out.println(a>b);//true
+		System.out.println(a==b);//false
+		
+		int c=12;
+		System.out.println(a>b && a>c);// true
+		
+		System.out.println(a>b && c>b);//true && false- False
+		
+		
+		
+				
 		
 	}
 	

@@ -12,8 +12,7 @@ public class UniryOperators {
 		 */
 		Int a=12;
 		System.out.println();
-		
-				
+						
 	}
 
 }
