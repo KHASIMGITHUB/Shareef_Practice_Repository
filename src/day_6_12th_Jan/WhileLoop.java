@@ -6,10 +6,10 @@ public class WhileLoop {
 		// TODO Auto-generated method stub
 
 		  int i=5;
-		  while (i<=50);{
+		  while (i<=50){
 				 
-	System.out.println(i);
-	i=i+5;
+	     System.out.println(i);
+	     i=i+5;
 				  
 	}
 	}	
