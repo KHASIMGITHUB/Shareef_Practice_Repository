@@ -1,4 +1,4 @@
-package day11_NestedLoops;
+package day_11_NestedLoops;
 
 public class NestedForLoops {
 
