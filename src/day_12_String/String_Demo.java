@@ -57,7 +57,8 @@ public class String_Demo {
 		for(int i=LengthOfStr-1;i>=0;i--) {
 			Reverse = Reverse+Original.charAt(i);
 		}
-  System.out.println("ReverseOfTheString:"+Reverse);
+       System.out.println("ReverseOfTheString:"+Reverse);
+  
 	}
 
 }
